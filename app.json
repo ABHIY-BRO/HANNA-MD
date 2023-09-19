@@ -1,11 +1,11 @@
 {
-	"name": "Millie-MD",
-	"description": " Whatsapp bot.",
+	"name": "Hanna-MD",
+	"description": "Simple Whatsapp bot.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Neeraj-x0/Millie-MD",
+	"repository": "https://github.com/ABHIY-BRO/hanna-md",
 	"stack": "container",
 	"env": {
 		"THUMBNAIL_IMAGE": {
@@ -49,7 +49,7 @@
 			"value": "."
 		},
 		"SESSION_ID": {
-			"description": "session id",
+			"description": "Hanna-MD session id",
 			"required": true,
 			"value": ""
 		},
